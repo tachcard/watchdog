@@ -9,3 +9,7 @@ launch CooCox IDE:
 1. Open the project: \SOFTWARE\CooCox\HW_WD.coproj
 2. Recompile the project: Project -> Rebuild (CTRL + R)
 3. Record the controller firmware: Flash -> Program Download
+
+
+video
+https://vimeo.com/118703395
