@@ -1,7 +1,7 @@
 watchdog
 =======================
 
-Device to automatically restart the computer if it hangs and device management through controlled YUSB and galvanically isolated power management
+Device to automatically restart the computer if it hangs and device management through controlled USB and galvanically isolated power management
 
 Software adapted to run on the controller STM32f301C8, but can easily be converted floor of any programmable controller.
 
